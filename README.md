@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Othmg
-- 👀 I’m interested in data science of finance
-- 🌱 I’m currently learning SQL, Python
-- 💞️ I’m looking to collaborate on a wealth management app
+- 👀 Interested in data science applied to finance
+- 🌱 Currently learning SQL, Python
+- 💞️ Looking to collaborate on a wealth management app
 - 📫 How to reach me: linkedin: www.linkedin.com/in/othmanegacem twitter: othmg93
 
 <!---
