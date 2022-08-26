@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Othmg
-- 👀 Bring wealth management to everyone
+- 👀 Bringing wealth management to everyone
 - 🌱 Currently learning SQL
-- 💞️ Looking to collaborate on a wealth management app
+- 💞️ Looking to collaborate on a wealth management web-app
 - 📫 How to reach me: linkedin: www.linkedin.com/in/othmanegacem twitter: othmg93
 
 <!---
