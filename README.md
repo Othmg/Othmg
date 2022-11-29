@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Othmg
 - 👀 Bringing wealth management to everyone
-- 🌱 Currently learning SQL
+- 🌱 Currently developing affordify.io
 - 💞️ Looking to collaborate on a wealth management web-app
 - 📫 How to reach me: linkedin: www.linkedin.com/in/othmanegacem twitter: othmg93
 
