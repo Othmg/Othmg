@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Othmg
-- 👀 Bringing wealth management to everyone
-- 🌱 Currently developing affordify.io
+- 👀 Bringing personal finance to everyone
+- 🌱 Currently developing aimfina.com
 - 💞️ Looking to collaborate on a wealth management web-app
 - 📫 How to reach me: linkedin: www.linkedin.com/in/othmanegacem twitter: othmg93
 
